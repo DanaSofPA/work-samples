@@ -1,0 +1,150 @@
+/****CSS FOR ROGUE PICKINGS****/
+
+/****BASE STYLES****/
+
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	color: black;
+}
+
+p {
+	font-size: 16px;
+}
+
+
+/****GRID****/
+.full-width {
+	width: 1200px;
+	margin: 0px auto;
+}
+
+.half-width {
+	width: 600px;
+	float: left;
+}
+
+.third-width {
+	width: 400px;
+	float: left;
+}
+
+
+
+
+/****SECTION HEIGHTS****/
+
+header {
+	height: 550px;
+}
+
+section {
+	height: 240px;
+}
+
+footer {
+	height: 70px;
+}
+
+
+
+/****HEADER****/
+
+.beany {
+	color: #77a466;
+}
+
+h1 {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+
+/****I CAN'T FIGURE OUT HOW TO GET THE NAV BAR TO LINE UP WITH RIGHT MARGIN****/
+nav {
+	color: #77a466;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 14px;
+}
+
+nav ul li {
+	display: inline;
+	word-spacing: 12px;
+	text-align: right;
+}
+
+img {
+	border: 3px solid #77a466;
+}
+
+header h2 {
+	color: #c0d5b8;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+
+
+
+/****SECTION****/
+
+section h3 {
+	font-size: 12px;	
+	font-weight: bold;
+}
+
+section {
+	border-top: 2px solid lightgray;
+}
+
+
+
+/****SPECIALS****/
+
+ul {
+	color: #b6cead;
+	font-size: 16px;
+	list-style-type: none;
+	line-height: 18px;
+	padding: 0;
+}
+
+
+
+/****REVIEWS****/
+
+section p {
+	line-height: 21px;
+	padding-right: 43px;
+}
+
+
+/****CONTACT US****/
+
+section p {
+	line-height: 24px;
+}
+
+/****FOOTER****/
+
+footer h2 {
+	clear: both;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+footer {
+	border-top: 2px solid lightgray;
+}
+
+#scripty {
+	font-family: 'Oleo Script Swash Caps', cursive;
+	font-size: 20px;
+	color: #9bbc8f;
+	text-transform: lowercase;
+	word-spacing: 4px;
+}
+
